@@ -17,7 +17,7 @@ st.set_page_config(
 )
 
 # Caminho único da Logo Verde exigido
-CAMINHO_LOGO = r"C:\Users\996086\Desktop\ScriptComissaoVendas_v2\img\logoVerde.png"
+CAMINHO_LOGO = "img/logoVerde.png"
 
 # =========================================================
 # ESTILO VISUAL CORPORATIVO (CSS AVANÇADO)
